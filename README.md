@@ -1,6 +1,6 @@
 # Excel-Project---1
 #Dataset
-https://github.com/Anandy01/Excel-Project---1/blob/main/Excel%20CapstoneTransactionData_Animesh.xlsx
+dataset link:https://github.com/Anandy01/Excel-Project---1/blob/main/Excel%20CapstoneTransactionData_Animesh.xlsx
 1. **Completion rate :** This refers to the rate at which orders are completed (Order successfully delivered / Total order placed).
 2. **Customer Lifetime value :** It refers to the total revenue generated per customer. Usually this number is defined across various time period such as 3 month LTV, 6 month LTV or 12 months LTV. However, you don’t need to consider specific time period for this business case. For example, if a person placed 15 orders and paid cumulative 4500 rupees to Freshco, the LTV for the customer is 4500 (excluding discount).
 
